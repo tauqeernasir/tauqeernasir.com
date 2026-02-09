@@ -18,9 +18,10 @@ export default function Home() {
         <h1>Muhammad Tauqeer Nasir</h1>
         <p style={{ marginTop: '0.5rem', fontSize: '1.25rem' }}>Engineering Lead</p>
         <p style={{ marginTop: '1.5rem', maxWidth: '600px' }}>
-          A software engineer with 7+ years of extensive experience building large scale software solutions,
-          specialized in automation and efficiency. Track record of leading impactful technology projects
-          and driving digital innovation.
+          I am a seasoned Engineering Lead and Fullstack Architect with a passion for building scalable, high-performance distributed systems. With over 7 years of experience ranging from high-growth startups to large-scale e-commerce platforms. I specialize in bridging the gap between complex technical architecture and seamless user experiences.
+        </p>
+        <p style={{ marginTop: '1.5rem', maxWidth: '600px' }}>
+          My expertise lies in leading cross-functional teams, refining microservices architectures, and optimizing data-driven workflows. Whether it’s architecting robust backends in Node.js, Go, or Python or crafting responsive frontends in React and Next.js, I focus on delivering clean, maintainable code that solves real-world business challenges.
         </p>
         <div className="social-links">
           <a href="https://linkedin.com/in/tauqeer-nasir" target="_blank" className="social-link">LinkedIn</a>
