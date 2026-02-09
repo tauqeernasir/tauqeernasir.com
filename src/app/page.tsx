@@ -14,9 +14,9 @@ export default function Home() {
       </nav>
 
       {/* Hero Section */}
-      <section id="about">
-        <h1>Muhammad Tauqeer Nasir</h1>
-        <p style={{ marginTop: '0.5rem', fontSize: '1.25rem' }}>Engineering Lead</p>
+      <section id="about" aria-label="About Me">
+        <h1 itemProp="name">Muhammad Tauqeer Nasir</h1>
+        <p style={{ marginTop: '0.5rem', fontSize: '1.25rem' }} itemProp="jobTitle">Engineering Lead</p>
         <p style={{ marginTop: '1.5rem', maxWidth: '600px' }}>
           I am a seasoned Engineering Lead and Fullstack Architect with a passion for building scalable, high-performance distributed systems. With over 7 years of experience ranging from high-growth startups to large-scale e-commerce platforms. I specialize in bridging the gap between complex technical architecture and seamless user experiences.
         </p>
