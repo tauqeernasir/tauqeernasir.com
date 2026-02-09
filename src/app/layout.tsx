@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "https://tauqeernasir.com",
     siteName: "Muhammad Tauqeer Nasir Portfolio",
-    title: "Muhammad Tauqeer Nasir | Engineering Lead & Fullstack Architect",
+    title: "Muhammad Tauqeer Nasir | Engineering Lead",
     description: "Seasoned Engineering Lead with 7+ years of experience in distributed systems, microservices, and fullstack development.",
     images: [
       {
